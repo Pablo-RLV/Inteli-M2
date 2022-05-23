@@ -1,17 +1,9 @@
-function bubbleSort(items) {
-    var length = items.length;  
-    for (var i = 0; i < length; i++) { 
-          for (var j = 0; j < (length - i - 1); j++) { 
-                   if(items[j] > items[j+1]) {
-                           var tmp = items[j]; 
-                items[j] = items[j+1]; 
-                items[j+1] = tmp; 
-            }
-        }        
-    }
+function bubbleSort(){
+    var str = document.getElementById("numeros").value
+    str = str.split(",").slice()
+    var array = str.map(Number)
+    array.sort()
+    
+    console.log(array)
+    document.getElementById('saida').innerHTML = array;
 }
-
-var arr = [5, 4, 3, 2, 1]; 
-bubbleSort(arr);
-
-console.log(arr);
