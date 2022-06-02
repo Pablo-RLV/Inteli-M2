@@ -18,7 +18,7 @@ function calculo(){
         resultado = num1 / num2
     }
     else if(operador ==4){
-        resultado = num1 // num2
+        resultado = Math.floor(num1 / num2)
     }
     else if(operador ==5){
         resultado = num1 % num2
