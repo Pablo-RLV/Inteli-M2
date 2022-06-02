@@ -1,12 +1,12 @@
 function bubbleSort(){
     var str = document.getElementById("numeros").value
+    var foco = parseInt(document.getElementById("foco").value)
     str = str.split(",").slice()
     var array = str.map(Number)
     var new_array = []
     while( typeof (i = array.shift()) !== 'undefined' ) {
     parseInt(i)
     new_array.unshift(i)
-    console.log(i);
     }
     var length = new_array.length;  
     for (var i = 0; i < length; i++) { 
@@ -18,6 +18,14 @@ function bubbleSort(){
             }
         }        
     }
-    console.log(new_array)
-    document.getElementById('saida').innerHTML = new_array;
+
+    var valorFocal = 1 + new_array.indexOf(foco)
+    console.log(valorFocal)
+    if (valorFocal != 0){
+        document.getElementById('valorFocal').innerHTML = "Números organizados: " + new_array;
+    }
+    else{
+        document.getElementById('valorFocal').innerHTML = "Valor focal não encontrado"
+    }
+    document.getElementById('saida').innerHTML = "Posição do valor focal: " + valorFocal;
 }
