@@ -58,6 +58,9 @@ body{
       font-size: 1.17em;
       font-weight: bold;
   }
+  #consulta_banco{
+    color: #156e76;
+  }
 
   #egg{
     font-size: 5px;
