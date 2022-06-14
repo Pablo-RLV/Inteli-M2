@@ -1,0 +1,19 @@
+{
+  "name": "modulo2",
+  "version": "1.0.0",
+  "description": "Minhas entregas estão definidas aqui:\r ## Currículo\r <a href=\"https://pablo-rlv.github.io/modulo2/03_AUT_EST_ENTREGA/Semana%206/Public/curriculosemana6.html\"> 07/06/2022 - Semana 6 </a>\r ## Exercícios Obrigatórios\r <a href=\"https://pablo-rlv.github.io/modulo2/04_AUT_EST_EX_OBRIGATORIOS/Semana%207/Exercício%201.html\"> Semana 7 - exercício 1 | </a>\r <a href=\"https://pablo-rlv.github.io/modulo2/04_AUT_EST_EX_OBRIGATORIOS/Semana%207/Exercício%202.html\"> Semana 7 - exercício 2 | </a>\r <a href=\"https://pablo-rlv.github.io/modulo2/04_AUT_EST_EX_OBRIGATORIOS/Semana%207/Exercício%203.html\"> Semana 7 - exercício 3 | </a>\r <a href=\"https://pablo-rlv.github.io/modulo2/04_AUT_EST_EX_OBRIGATORIOS/Semana%207/Exercício%204.html\"> Semana 7 - exercício 4 | </a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pablo-RLV/modulo2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pablo-RLV/modulo2/issues"
+  },
+  "homepage": "https://github.com/Pablo-RLV/modulo2#readme"
+}
