@@ -9,10 +9,10 @@ Minhas entregas estão definidas aqui:
 <a href="https://pablo-rlv.github.io/modulo2/04_AUT_EST_EX_OBRIGATORIOS/Semana%207/Exercício%202.html"> Semana 7 - exercício 2 | </a>
 <a href="https://pablo-rlv.github.io/modulo2/04_AUT_EST_EX_OBRIGATORIOS/Semana%207/Exercício%203.html"> Semana 7 - exercício 3 | </a>
 <a href="https://pablo-rlv.github.io/modulo2/04_AUT_EST_EX_OBRIGATORIOS/Semana%207/Exercício%204.html"> Semana 7 - exercício 4 | </a>
-<a href="https://pablo-rlv.github.io/modulo2/04_AUT_EST_EX_OBRIGATORIOS/Semana%207/Exerc%C3%ADcio%205.html"> Semana 7 - exercício 5 | </a>
+<a href="https://pablo-rlv.github.io/modulo2/04_AUT_EST_EX_OBRIGATORIOS/Semana%207/Exerc%C3%ADcio%205.html"> Semana 7 - exercício 5  </a>
 <br>
 <a href="https://pablo-rlv.github.io/modulo2/04_AUT_EST_EX_OBRIGATORIOS/Semana%209/Exerc%C3%ADcio%201.html"> Semana 9 - exercício 1 | </a>
 <a href="https://pablo-rlv.github.io/modulo2/04_AUT_EST_EX_OBRIGATORIOS/Semana%209/Exerc%C3%ADcio%202.html"> Semana 9 - exercício 2 | </a>
 <a href="https://pablo-rlv.github.io/modulo2/04_AUT_EST_EX_OBRIGATORIOS/Semana%209/Exerc%C3%ADcio%203.html"> Semana 9 - exercício 3 | </a>
 <a href="https://pablo-rlv.github.io/modulo2/04_AUT_EST_EX_OBRIGATORIOS/Semana%209/Exerc%C3%ADcio%204.html"> Semana 9 - exercício 4 | </a>
-<a href="https://pablo-rlv.github.io/modulo2/04_AUT_EST_EX_OBRIGATORIOS/Semana%209/Exerc%C3%ADcio%205.html"> Semana 9 - exercício 5 | </a>
+<a href="https://pablo-rlv.github.io/modulo2/04_AUT_EST_EX_OBRIGATORIOS/Semana%209/Exerc%C3%ADcio%205.html"> Semana 9 - exercício 5  </a>
